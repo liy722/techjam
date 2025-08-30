@@ -42,7 +42,7 @@ To reproduce our results, please follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repo-Name].git
+    git clone https://github.com/liy722/techjam.git
     ```
 
 2.  **Prepare the Data:**
