@@ -33,8 +33,8 @@ This method allows the model to make nuanced, context-aware judgments that combi
 * **Language:** Python
 * **Core Libraries:** `pandas`, `unsloth`, `PyTorch`, `Hugging Face Transformers`, `scikit-learn`
 * **Model:** `google/gemma-3-12b-it`
-* **Environment:** Google Colab (T4 GPU)
-* **Data Storage:** Google Drive
+* **Environment:** Google Colab (A100 GPU)
+* **Data Storage:** Google Drive 
 
 ## 🚀 How to Run
 
@@ -46,7 +46,7 @@ To reproduce our results, please follow these steps:
     ```
 
 2.  **Prepare the Data:**
-    * Download the dataset `hackathon_data.zip` provided for the project.
+    * Download the dataset `hackathon_data.zip` provided for the project. https://drive.google.com/file/d/1iWfqpUf4hKVZSZEAwaJMnsFEBaaON9KY/view?usp=sharing
     * Upload the `hackathon_data.zip` file to the root directory of your Google Drive.
 
 3.  **Configure the Environment:**
